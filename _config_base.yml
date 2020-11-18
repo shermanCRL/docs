@@ -56,7 +56,6 @@ release_info:
     build_time: 2020/11/23 11:00:26 (go1.13.4)
     start_time: 2020-11-23 11:01:26.34274101 +0000 UTC
 
-
 include: ["_redirects"]
 exclude:
 - "ci"
